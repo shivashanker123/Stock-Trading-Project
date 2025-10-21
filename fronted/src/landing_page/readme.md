@@ -1,0 +1,1 @@
+first home(all comp wrapped in homepage),signup ,about ,product,pricing((we'll use OpenAccount)all comp wrapped in PricingPage),support(all comp wrapped in SupportPage)
